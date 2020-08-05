@@ -1,0 +1,19 @@
+{
+  "name": "rick-and-morty-spa",
+  "version": "1.0.0",
+  "description": "single page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luucamay/rick-and-morty-SPA.git"
+  },
+  "author": "@luucamay",
+  "license": "GNU v3",
+  "bugs": {
+    "url": "https://github.com/luucamay/rick-and-morty-SPA/issues"
+  },
+  "homepage": "https://github.com/luucamay/rick-and-morty-SPA#readme"
+}
